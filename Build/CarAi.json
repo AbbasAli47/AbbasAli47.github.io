@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "car_AI",
-"dataUrl": "CarAi.data.unityweb",
-"wasmCodeUrl": "CarAi.wasm.code.unityweb",
-"wasmFrameworkUrl": "CarAi.wasm.framework.unityweb",
+"dataUrl": "CARAI.data.unityweb",
+"wasmCodeUrl": "CARAI.wasm.code.unityweb",
+"wasmFrameworkUrl": "CARAI.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
