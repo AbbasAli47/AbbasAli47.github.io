@@ -10,8 +10,8 @@ function setup() {
 function draw() {
 	background(0, 0,0);
 	drawSquares(X+length*2,X+length*2,length*3,0);
-	length -=1;
-	X-=1;
+	length -=2;
+	X-=2;
 	if(length<70){
 		X = X+length*2;
 		length = length*3;
