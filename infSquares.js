@@ -1,5 +1,5 @@
 
-maxLevel=5;
+maxLevel=4;
 vel = 6;
 length = 150;
 X=20;
