@@ -1,5 +1,5 @@
 
-maxLevel=5;
+maxLevel=4;
 vel = 6;
 length = 150;
 X=20;
@@ -10,8 +10,8 @@ function setup() {
 function draw() {
 	background(0, 0,0);
 	drawSquares(X+length*2,X+length*2,length*3,0);
-	length -=0.1;
-	X-=0.1;
+	length -=2;
+	X-=2;
 	if(length<70){
 		X = X+length*2;
 		length = length*3;
